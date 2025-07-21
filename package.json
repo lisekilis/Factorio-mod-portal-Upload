@@ -79,7 +79,7 @@
     "@typescript-eslint/eslint-plugin": "^8.25.0",
     "@typescript-eslint/parser": "^8.25.0",
     "@vercel/ncc": "^0.38.3",
-    "eslint-plugin-jest": "^28.11.0",
+    "eslint-plugin-jest": "^29.0.1",
     "eslint-plugin-jsonc": "^2.19.1",
     "eslint-plugin-prettier": "^5.2.3",
     "make-coverage-badge": "^1.2.0",
